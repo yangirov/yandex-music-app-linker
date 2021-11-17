@@ -1,0 +1,19 @@
+{
+  "name": "Open Yandex Music MacOS App (unofficial)",
+  "description": "Open Yandex Music URIs/web player links in the MacOS app (unofficial)",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "https://music.yandex.ru/*"
+  ],
+  "icons": {
+    "16": "logo-16.png",
+    "48": "logo-48.png",
+    "128": "logo-128.png"
+  }
+}
