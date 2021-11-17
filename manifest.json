@@ -1,6 +1,6 @@
 {
   "name": "Open Yandex Music MacOS App (unofficial)",
-  "description": "Open Yandex Music URIs/web player links in the MacOS app (unofficial)",
+  "description": "Открывает ссылки из браузера в неофициальном приложении Яндекс Музыки на MacOS",
   "version": "1.0.0",
   "manifest_version": 2,
   "background": {
